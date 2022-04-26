@@ -1,8 +1,7 @@
 ### Hi there, I'm Tobi 👋
 
 - 🔭 I’m currently working on everything around Data Engineering and enabling future AI/ML solutions
-- 🌱 I’m currently learning a lot about Data Engineering and Data Science
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tobias-freundorfer-025a7216b/">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/data-ftw/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
